@@ -1,4 +1,4 @@
-package com.mayo.interview_questions.collections;
+package com.mayo.interview_questions.collections.arrays;
 
 import java.util.Random;
 
